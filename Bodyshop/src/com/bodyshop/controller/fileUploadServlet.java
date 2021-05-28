@@ -28,7 +28,6 @@ import org.apache.log4j.Logger;
 import com.bodyshop.dao.BodyShopDao;
 import com.bodyshop.pojo.Product;
 
-import oracle.net.aso.p;
 
 /**
  * Servlet implementation class fileUploadServlet
